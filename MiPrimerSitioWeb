@@ -1,0 +1,836 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Website one</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  </head>
+  <body style="background-color: azure;">
+    <div class="container text-center fs-1 fw-bold bg-danger text-white">
+        INTRODUCCIÓN A LAS TECNOLOGÍAS WEB E INTERNET
+    </div>
+    <br>
+    <div class="container text-left">
+        <div class="row align-items-start">
+          <div class="col">
+            <p align="center"><b>MIS DATOS PERSONALES</b></p>
+
+            <p><b>Apellidos y Nombres:</b> Julio Cesar Inga Flores</p>
+            <p><b>Semestre:</b> I</p>
+            <p><b>Turno:</b> Noche</p>
+            <p><b>Especialidad:</b> Computación e Informática</p>
+            <p><b>Presentación:</b> -</p>
+            <p></p>
+          </div>
+          <div class="col">
+            <img src="https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1244482898/image_1244482898.jpg?io=getty-c-w1536" class="img-thumbnail" alt="...">
+          </div>
+        </div>
+      </div>
+      <hr>
+      <div class="container fs-2 text-center fw-bold">
+        Inteligencia artificial y el internet de las cosas
+      </div>
+      <br>
+      <div class="container">
+        <p align="justify">
+            La evolución tecnológica que se ha desarrollado en los últimos 20 años ha sido tan grande,
+que las cosas que antes parecían inimaginables, ahora son una realidad. El internet y la
+tecnología han sido la causa principal de esta evolución, misma que nos ha permitido crear
+sistemas automatizados que facilitan cada vez más nuestra vida.
+Uno de los resultados más grandes obtenidos por la tecnología ha sido el desarrollo de la
+inteligencia artificial, el cual ha permitido la creación de grandes proyectos tecnológicos y
+digitales, como es el caso de las ciudades inteligentes o “smart cities”.
+        </p>
+      </div> 
+      <hr>
+      <!--Aquí empieza el cuestionario -->
+      <div class="container">
+        <div class="container text-left">
+          <div class="row align-items-start">
+            <div class="col">
+              <p><b>1.-¿Qué es la inteligencia artificial?</b></p>
+              <p align="justify">Los avances tecnológicos, la digitalización, el big data y el internet de las cosas nos siguen acercando a lo que John McCarthy definió en 1956 como inteligencia artificial (IA). En una conferencia realizada en Dartmouth, este experto señaló que esta disciplina se encarga de sentar las bases para la creación de máquinas inteligentes, en especial programas que simulan la inteligencia humana. De forma similar, otros la consideran una rama de las ciencias de la computación que está enfocada en la construcción de sistemas capaces de llevar a cabo tareas que requieren inteligencia. Esto implica que estos entornos computacionales se apoyan en diferentes tecnologías, como el machine learning (ML) y el deep learning para seguir evolucionando dentro de la industria.</p>
+              <p align="justify">Desde una perspectiva más específica, otros especialistas coinciden en definir la IA como una combinación de algoritmos avanzados que pueden ser programados para crear sistemas inteligentes. Es decir, agentes dentro de máquinas que presentan rasgos de inteligencia humana, tienen la capacidad de percibir su entorno y de adaptarse de forma exitosa para realizar tareas simples o complejas.</p>
+              <p align="justify">Cualquier punto de vista que se tome de esta ciencia, irá transformándose a medida que las TICs sigan desarrollándose y el futuro nos acerque más al objetivo de la inteligencia artificial. Hoy día esta serie de tecnologías abarcan la robótica, mecatrónica y varios procesos de digitalización empresarial. Con la llegada de los macrodatos, su importancia se ha hecho más presente que nunca.</p>
+            </div> 
+            <div class="col">
+              <img src="https://www.nonprofitpro.com/wp-content/uploads/sites/8/2022/02/AI-robot_GI-1328784596-e1643738601686.jpg" class="img-thumbnail" alt="...">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container text-center">
+          <div class="row align-items-end">
+            <div class="col">
+              <img src="https://public.bnbstatic.com/image/pgc/202308/67922e0973ce174150faef6af57dfd65.png" class="img-fluid" alt="...">
+            </div>
+            <div class="col">
+              <p><b>Cómo funciona la inteligencia artificial</b></p>
+              <p align="justify">Cuando tratamos de explicar el funcionamiento de la AI, tenemos que remitirnos primero a responder qué hace a los programas y máquinas inteligentes. Este entendimiento parte de la definición de inteligencia que ya hemos abarcado, los tipos de IA que veremos más adelante y las categorías que enmarcan su implementación en diversos contextos.</p>
+              <p align="justify">Tomando lo último como referencia, encontramos 2 escenarios principales para comprender mejor esta disciplina:</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container text-center">
+          <div class="row align-items-center">
+            <div class="col">
+              <p><b>Inteligencia artificial estrecha (Narrow AI)</b></p>
+              <p align="justify">También llamada IA débil, son los sistemas que pretenden simular la inteligencia humana y operan dentro de un contexto limitado. Esta clase de funcionamiento se enfoca en hacer una sola tarea con eficiencia y rendimiento excepcionales. Puede que estas máquinas parezcan muy ingeniosas, pero en realidad están operando bajo controles que están lejos de una inteligencia humana básica. Esta clase de inteligencia artificial es la que ha tenido más éxito en su aplicación práctica, por ello influyen en casi todo lo que hacemos. Esta adopción ha significado una serie de disrupciones y avances tecnológicos en los últimos 10 años que han contribuido al desarrollo social, económico y empresarial. Entre sus ejemplos más reconocidos, tenemos: coches autónomos, asistentes virtuales (Siri, Alexa, etc.), software de reconocimiento facial, plataformas de publicidad con IA y mucho más.</p>
+            </div>
+              <div class="container text-center">
+                <div class="row align-items-center">
+            <div class="col">
+              <p><b>Inteligencia artificial general (AGI)</b></p>
+              <p align="justify">Este funcionamiento está más cercano al objetivo de la inteligencia artificial que vemos en las películas, como androides y robots parecidos a los humanos. Es considerada como IA fuerte porque estas máquinas pueden actuar como las personas, reaccionar a su entorno y resolver toda clase de problemas usando su inteligencia. La producción de sistemas humanoides o robots con capacidades sobrehumanas no es algo que vaya ocurrir en un futuro tan cercano. Mientras que lograr un nivel de inteligencia parecido al de las personas sería un logro sin precedentes, hay muchos obstáculos para lograr la AGI. De acuerdo a Stuart Rusell y Peter Norvig, la búsqueda de un algoritmo que pueda actuar y aprender en cualquier entorno no es nueva, pero existe gran dificultad para diseñar un sistema con amplias habilidades cognitivas.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <hr>
+
+      <div class="container mt-5">
+          <div class="text-center fw-bold mb-4">Ventajas y desventajas de la inteligencia artificial</div>
+          
+          <div class="fw-bold mb-2">Ventajas de la IA</div>
+          <p align="justify">Las múltiples ventajas que ofrece la IA en la sociedad se están comenzando a comprobar en cualquier empresa que la utiliza. Se trata, en definitiva, de conseguir que un sistema informático reaccione automáticamente ante una situación sin que sea necesario darle una orden específica. Lo anterior ha provocado que los siguientes aspectos positivos sean cada vez más fáciles de comprobar.</p>
+          
+          <div class="row">
+              <div class="col-md-6 mb-3">
+                  <div class="border p-3">
+                      <h5>1. Automatización de procesos</h5>
+                      <p align="justify">Permite que las máquinas hagan de forma automática tareas que para los humanos resultan repetitivas y tediosas. Puede tratarse de responder a las preguntas más frecuentes o de agilizar el funcionamiento de una cadena de montaje. En ambos casos, la IA contribuye a que los empleados puedan dedicar su tiempo de trabajo a cuestiones más productivas.</p>
+                  </div>
+              </div>
+              <div class="col-md-6 mb-3">
+                  <div class="border p-3">
+                      <h5>2. Reduce el error humano</h5>
+                      <p align="justify">Algunos trabajos exigen la repetición mecánica de movimientos o de acciones concretas (como la introducción de datos). Si se encarga la IA de afrontar este tipo de labores el nivel de error es mínimo y de producirse podría corregirse con mayor facilidad.</p>
+                  </div>
+              </div>
+              <div class="col-md-6 mb-3">
+                  <div class="border p-3">
+                      <h5>3. Potencia la creatividad</h5>
+                      <p align="justify">Cuando un empleado sabe que su labor repetitiva la va a realizar una herramienta eficaz es cuando se consigue un ambiente laboral más agradable. Ello provoca que el trabajador pueda desarrollar más creatividad e incluso propuestas destinadas a mejorar el ritmo de trabajo.</p>
+                  </div>
+              </div>
+              <div class="col-md-6 mb-3">
+                  <div class="border p-3">
+                      <h5>4. Aporta precisión</h5>
+                      <p align="justify">La IA se caracteriza por tener un pensamiento autónomo, lo que termina por generar procesos que reducen los gastos y los errores. La inteligencia artificial es capaz de analizar miles de datos en apenas minutos y además tener en cuenta posibles actualizaciones de los mismos. La información bien sintetizada y actualizada ayuda a los profesionales a tomar decisiones estratégicas.</p>
+                  </div>
+              </div>
+              <div class="col-md-6 mb-3">
+                  <div class="border p-3">
+                      <h5>5. Agiliza la toma de decisiones</h5>
+                      <p align="justify">Si tienes que decidir sobre el futuro de tu proyecto, la IA te permite conocer cuál es la mejor alternativa tras analizar los datos de tus transacciones. Su combinación con las tendencias del mercado te permite encontrar la decisión más adecuada para tu negocio.</p>
+                  </div>
+              </div>
+              <div class="col-md-6 mb-3">
+                  <div class="border p-3">
+                      <h5>6. Los avances en el sector de la salud</h5>
+                      <p align="justify">El empleo de la IA en el diagnóstico de enfermedades ayuda a conseguir tratamientos personalizados y a mejorar los resultados de la investigación médica.</p>
+                  </div>
+              </div>
+              <div class="col-md-6 mb-3">
+                  <div class="border p-3">
+                      <h5>7. El análisis de los errores de seguridad</h5>
+                      <p align="justify">La IA también te ayuda a prevenir, detectar y frenar posibles fraudes o ataques informáticos. Asimismo, contribuye a diseñar estrategias de rescate en situaciones de elevado peligro (incendios o accidentes entre otros).</p>
+                  </div>
+              </div>
+              <div class="col-md-6 mb-3">
+                  <div class="border p-3">
+                      <h5>8. Personalización de tu oferta comercial</h5>
+                      <p align="justify">El análisis de los datos de cada cliente ayuda a la IA a generar ofertas a medida. La segmentación de la clientela potencial, el fomento del compromiso de compra y conseguir estrategias comerciales más eficaces son factores que permiten emprender una etapa comercial más próspera.</p>
+                  </div>
+              </div>
+          </div>
+      </div>
+
+      <hr>
+
+        <div class="fw-bold mb-2 mt-5">Desventajas de la IA</div>
+        <p align="justify">Tras el análisis de la parte positiva de la IA es obligatorio repetir el estudio con sus aspectos más problemáticos. La incertidumbre, la necesidad de contar con especialistas y el coste de su puesta en práctica son tres buenos ejemplos que completamos con los siguientes.</p>
+        
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <div class="border p-3">
+                    <h5>1. La vulneración de derechos</h5>
+                    <p align="justify">Los derechos de imagen, la privacidad de los datos utilizados y la posible vulneración de las leyes en vigor exigen una formación específica para evitar posibles sanciones. De hecho, los países miembros de la UE han acordado debatir los detalles de una ley de IA. Hasta su aprobación, será la LOPD la que vele por la privacidad de los datos compartidos durante el uso de la herramienta.</p>
+                </div>
+            </div>
+            <div class="col-md-6 mb-3">
+                <div class="border p-3">
+                    <h5>2. La dificultad de acceso a los datos</h5>
+                    <p align="justify">Ningún sistema de inteligencia artificial será eficaz si sus datos no están actualizados y tampoco si no son fiables. Desgraciadamente, no siempre es así y el programa va desarrollando su labor sobre una base de datos errónea que termina por provocar errores sustanciales en el futuro de la empresa.</p>
+                </div>
+            </div>
+            <div class="col-md-6 mb-3">
+                <div class="border p-3">
+                    <h5>3. La falta de profesionales cualificados</h5>
+                    <p align="justify">Cada vez hay más profesionales formándose en la materia, pero la tecnología crece a un ritmo más rápido. Esta paradoja implica que no se pueda implementar la IA por no haber técnicos que puedan desarrollarla en su totalidad.</p>
+                </div>
+            </div>
+            <div class="col-md-6 mb-3">
+                <div class="border p-3">
+                    <h5>4. El coste de su desarrollo</h5>
+                    <p align="justify">Aunque haya alternativas gratuitas de uso doméstico, el precio de los planes para profesionales podría ser prohibitivo. Si se trata de un sistema personalizado para una empresa concreta el coste se dispara y solo las grandes compañías pueden permitirse una inversión así.</p>
+                </div>
+            </div>
+            <div class="col-md-6 mb-3">
+                <div class="border p-3">
+                    <h5>5. Pérdida de empleos</h5>
+                    <p align="justify">Automatizar las distintas tareas termina provocando que se eliminen varios puestos de trabajo como operarios de fábricas, redactores o similares.</p>
+                </div>
+            </div>
+            <div class="col-md-6 mb-3">
+                <div class="border p-3">
+                    <h5>6. La dependencia de la tecnología</h5>
+                    <p align="justify">Basar toda la actividad de una empresa en la IA puede parecer positivo, pero en caso de error el futuro del negocio se vería seriamente afectado.</p>
+                </div>
+            </div>
+            <div class="col-md-6 mb-3">
+                <div class="border p-3">
+                    <h5>7. Falta de empatía y de ética</h5>
+                    <p align="justify">Cualquier decisión que toma la IA se va a caracterizar por no tener ningún tipo de empatía y por no ser creativa. Todo es una consecuencia del análisis de los datos obtenidos y habría casos en los que las acciones elegidas no serían ni éticas, ni recomendables.</p>
+                </div>
+            </div>
+            <div class="col-md-6 mb-3">
+                <div class="border p-3">
+                    <h5>8. La posibilidad de su uso con fines maliciosos</h5>
+                    <p align="justify">Al no poder distinguir entre un dato positivo y uno negativo, la IA también ayudará a quienes la utilicen para sustraer datos ajenos o crear armas totalmente autónomas por citar dos ejemplos del posible daño que podría provocar un mal uso de este tipo de inteligencia.</p>
+                </div>
+            </div>
+            <div class="col-md-6 mb-3">
+                <div class="border p-3">
+                    <h5>9. La falta de personalización</h5>
+                    <p align="justify">Cualquier cliente quiere sentirse especial al ser atendido por una empresa. Lo mismo sucede al leer un texto en un sitio web de su interés. El uso generalizado de la IA provocaría que un alto porcentaje de las empresas ofrezcan prácticamente lo mismo evitando así las ventajas de la diferenciación.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+      <hr>
+
+      <div class="container">
+        <div class="container text-left">
+          <div class="row align-items-start">
+            <div class="col">
+              <img src="https://www.snowdropsolution.com/wp-content/uploads/2021/02/7-Types-Of-Artificial-Intelligence.jpg" class="img-fluid" alt="...">
+            </div>
+            <div class="col">
+              <p><b>2.-Big data e inteligencia artificial</b></p>
+              <p align="justify">Los avances tecnológicos impulsados por las TICs, la digitalización e incluso por startups hacen que la inteligencia artificial esté más presente en nuestras vidas. Muestra de ello son los bots integrados a nuestros dispositivos favoritos y motores de búsqueda, la inclusión de asistentes virtuales manejados por voz y el reconocimiento biométrico integrado a aplicaciones o aparatos.</p>
+              <p align="justify">La presencia de la AI también ha sido impulsada por tecnologías como el internet de las cosas y el big data, que permiten tanto la generación como la gestión de macrodatos. Estas cantidades masivas de información están siendo aprovechadas en diferentes ámbitos para ofrecer mejores soluciones y facilitar nuestra convivencia mediante entornos más inteligentes.</p>  
+              </div>
+            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div>
+        <p class="container text-center fw-bold">Dentro de sus múltiples aplicaciones, podemos destacar:</p>
+      </div>
+      <div class="container mt-5">
+          <table class="table table-bordered text-center">
+              <tbody>
+                  <tr>
+                      <td class="align-middle"><strong>Salud</strong></td>
+                      <td>
+                          <p align="justify">Hay diferentes portales en internet y apps que cuentan con chatbots capaces de realizar diagnósticos en tiempo real. Estos “doctores virtuales” se nutren de información constante para analizar patrones sobre la predisposición genética de las personas a desarrollar sintomatologías particulares o ciertas enfermedades.</p>
+                      </td>
+                  </tr>
+                  <tr>
+                      <td class="align-middle"><strong>Comercio</strong></td>
+                      <td>
+                          <p align="justify">Las empresas que se dedican al retail y la venta de mercancía cuentan con soluciones informáticas que se nutren de bases de datos para mejorar sus procesos. Su implementación facilita el pronóstico de las ventas, la sugerencia de productos de acuerdo al perfil del cliente, un mejor análisis del desempeño laboral y otras funciones.</p>
+                      </td>
+                  </tr>
+                  <tr>
+                      <td class="align-middle"><strong>Videojuegos</strong></td>
+                      <td>
+                          <p align="justify">No hay duda que el avance de los personajes no humanos sigue una franca progresión en estos entornos de juego tan sofisticados. En algunos casos, las habilidades de agentes virtuales pueden ser muy superiores a las de los humanos, por lo que deben ser calibradas para equilibrar la competencia.</p>
+                      </td>
+                  </tr>
+                  <tr>
+                      <td class="align-middle"><strong>Finanzas</strong></td>
+                      <td>
+                          <p align="justify">En la actualidad existen una gran variedad de sistemas inteligentes que sirven para predecir patrones de mercado, de acciones y otros activos que fluctúan según diversas variables. La inteligencia artificial también se emplea para fortalecer las medidas de seguridad y en el análisis profundo para ejecutar mejores inversiones.</p>
+                      </td>
+                  </tr>
+                  <tr>
+                      <td class="align-middle"><strong>Logística</strong></td>
+                      <td>
+                          <p align="justify">En la industria del transporte, la IA está siendo utilizada para el manejo de diversas situaciones de control para mejorar la movilidad, seguridad, rastreo y otros aspectos claves. Dentro de las ciudades, su implementación ayuda a agilizar el tráfico, reducir las colisiones y evitar los atascos durante las horas pico.</p>
+                      </td>
+                  </tr>
+                  <tr>
+                      <td class="align-middle"><strong>Ecología</strong></td>
+                      <td>
+                          <p align="justify">Las empresas y organizaciones modernas pueden apoyarse en diferentes tecnologías para cuidar el medio ambiente. El avance de la AI ha permitido la creación de submarinos no tripulados para labores de reconocimiento y detección de fugas en oleoductos. También existen flotas de drones configurados para plantar árboles y edificios inteligentes que favorecen la sostenibilidad mediante el ahorro energético.</p>
+                      </td>
+                  </tr>
+              </tbody>
+          </table>
+      </div>
+
+      <hr>
+
+      <div class="container">
+        <div class="container text-left">
+          <div class="row align-items-start">
+            <div class="col">
+              <p><b>3.-¿Qué significa el internet de las cosas?</b></p>
+              <p align="justify">Sumado a este tipo de tecnología, el internet también ha conseguido que hoy en día nuestras actividades sean mucho más fáciles, rápidas y accesibles con el uso de dispositivos u objetos tecnológicos; este tipo de desarrollo es conocido como “el internet de las cosas”.</p>
+              <p align="justify">El internet de las cosas es un término utilizado para explicar la conexión que hoy en día tienen gran parte de nuestros objetos con el internet; esto ha logrado una gran interactividad entre las personas y los objetos que nos rodean para generar acciones tecnológicas nunca antes vistas.</p>
+            </div>
+            <div class="col">
+              <img src="https://media.marketrealist.com/brand-img/wgrjINf0Y/0x0/uploads/2019/08/Elon-Musk-on-artificial-intelleigence.jpeg" class="img-fluid" alt="...">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container text-left">
+          <div class="row align-items-start">
+            <div class="col">
+              <img src="https://en.idei.club/uploads/posts/2023-06/1685628831_en-idei-club-p-applications-of-artificial-intelligence-di-47.jpg" class="img-fluid" alt="...">
+            </div>
+            <div class="col">
+              <p><b>¿Cómo se desarrolla la inteligencia artificial y el internet de las cosas?</b></p>
+              <p align="justify">Actualmente las tecnologías de la información y la comunicación (TIC) juegan un papel importante para el desarrollo de la inteligencia artificial y el internet de las cosas; toda la información que comunicamos a través de nuestros dispositivos se traduce en datos que están circulando en todas partes a través de las TIC. La información generada por las TIC debe pasar por un proceso de análisis de datos en tiempo real que dé sentido y contribuya al beneficio de las personas y las empresas. Para lograrlo es necesario la participación de la inteligencia artificial, la cual es programada para analizar toda esta información a través de sistemas computacionales. Por su parte, el internet de las cosas contribuye a la distribución de esta información por medio de una conectividad de alta velocidad a internet. Esta conectividad se logra a través de todos los objetos que utilizamos para hacer diversas acciones como compras en línea o comunicarse digitalmente.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container text-left">
+          <div class="row align-items-start">
+            <div class="col">
+              <p><b>¿Cómo contribuye la ingeniería en sistemas a estos procesos?</b></p>
+              <p align="justify">Para funcionar correctamente, la inteligencia artificial necesita actuar como una mente humana, y para lograrlo, se necesita forzosamente de procesos computacionales que logren sistematizar cada acción que realice la máquina o dispositivo inteligente; es aquí donde entra la ingeniería en sistemas computacionales. La ingeniería en sistemas es conocida por ser la ciencia de los datos, esto significa que es la única ingeniería capaz de programar procesamientos de lenguaje, razonamiento y aprendizajes a través del análisis de datos.</p>
+              <p align="justify">Además de contribuir a la inteligencia artificial, la ingeniería en sistemas computacionales, favorece al desarrollo del internet de las cosas por medio del big data. A través de esta especialización computacional, el ingeniero en sistemas es capaz de lograr un análisis de datos profundo, sin importar si el volumen de datos que entra y sale de los distintos dispositivos conectados a internet es muy elevado. Si consideras que puedes desarrollarte como profesional de esta ingeniería, té invitamos a conocer más sobre nuestro plan de estudio de la Licenciatura en Ingeniería en Sistemas Computacionales, el cual cuenta con un sistema de aprendizaje orientado a la innovación tecnológica de sistemas informáticos que te capacitan para dominar las infraestructuras computacionales de cualquier organización.</p>
+            </div>
+            <div class="col">
+              <img src="https://miro.medium.com/v2/resize:fit:1200/1*lhIoL0HSC5oVONvomeVw1A.jpeg" class="img-fluid" alt="...">
+            </div>
+          </div>
+        </div>
+      </div>
+      <hr>
+      <div class="container">
+        <div class="container text-left">
+          <div class="row align-items-start">
+            <div class="col">
+              <img src="https://assets.entrepreneur.com/content/3x2/2000/20200312202638-GettyImages-1166135960.jpeg" class="img-fluid" alt="...">
+            </div>
+            <div class="col">
+              <p><b>4.-La sociedad de la información y la sociedad del conocimiento</b></p>
+              <p align="justify">Cuando hablamos de “sociedad de la información” y “sociedad del conocimiento”, estamos ante dos conceptos que, aunque a veces se usan indistintamente, tienen significados diferentes. Vamos a adentrarnos en el corazón de estos términos para comprender realmente qué implican y cómo han moldeado la era actual en la que vivimos.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container text-left">
+          <div class="row align-items-start">
+            <div class="col">
+              <p><b>Sociedad de la Información:</b></p>
+              <p align="justify">Para entender la sociedad de la información, primero debemos comprender qué es “información”. En un sentido muy básico, la información es un conjunto de datos organizados que nos dicen algo sobre un tema específico. En nuestro mundo actual, la información es omnipresente; está en nuestros móviles, televisores, ordenadores y hasta en las pantallas que vemos en el transporte público.</p>
+            </div>
+            <div class="col">
+              <img src="https://avatars.mds.yandex.net/i?id=6db19e258300447d43d905b9bdb16f3ef0729b33-4379030-images-thumbs&n=13" class="img-fluid" alt="...">
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <hr>
+
+      <div>
+        <p class="container text-center fw-bold">Características de la Sociedad de la Información:</p>
+      </div>
+        <div class="container">
+          <div class="container text-left">
+            <div class="row align-items-start">
+              <div class="col">
+                <img src="https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1244482898/image_1244482898.jpg?io=getty-c-w1536" class="img-fluid" alt="...">
+              </div>
+              <div class="col">
+                <p><b>Sociedad del Conocimiento:</b></p>
+                <p align="justify">Si la sociedad de la información se centra en el acceso y distribución de datos, la sociedad del conocimiento va un paso más allá. Se enfoca en cómo usamos, interpretamos y procesamos esa información para generar conocimiento, habilidades y competencias. Es decir, no solo es tener la información, sino saber qué hacer con ella.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+    <div class="container mt-5">
+        <p class="text-center fw-bold">Características de la Sociedad del Conocimiento:</p>
+        <table class="table table-bordered text-center">
+            <tbody>
+                <tr>
+                    <td class="align-middle"><strong>Educación Continua</strong></td>
+                    <td>
+                        <p align="justify">En una sociedad del conocimiento, el aprendizaje no termina con la escuela o universidad. Se valora la formación constante y la adaptabilidad a nuevos saberes.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align-middle"><strong>Innovación y Creatividad</strong></td>
+                    <td>
+                        <p align="justify">Estos se convierten en pilares esenciales. Las soluciones innovadoras y la capacidad de pensar “fuera de la caja” (out of the box) son altamente valoradas.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align-middle"><strong>Trabajo Colaborativo</strong></td>
+                    <td>
+                        <p align="justify">Las redes de colaboración, tanto locales como globales, son fundamentales. La co-creación de conocimiento se realiza en equipos interdisciplinarios y en entornos diversos.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align-middle"><strong>Tecnología como Herramienta</strong></td>
+                    <td>
+                        <p align="justify">Mientras que en la sociedad de la información la tecnología es el núcleo, en la sociedad del conocimiento es una herramienta que permite generar, compartir y aplicar el saber.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+      <hr>
+
+      <div class="container">
+        <div class="container text-left">
+          <div class="row align-items-start">
+            <div class="col">
+              <p><b>5.-¿Qué son las TIC?</b></p>
+              <p align="justify">Las TIC (Tecnologías de la Información y la Comunicación) incluyen un conjunto de herramientas y recursos tecnológicos utilizados para el proceso, administración y distribución de información. Estos incluyen elementos como ordenadores, teléfonos, televisores, internet, software, y otros dispositivos de comunicación y tecnología de la información. En los últimos años, las TIC han tomado un papel importantísimo en nuestra sociedad y se utilizan en multitud de actividades. Las TIC forman ya parte de la mayoría de sectores: educación, robótica, Administración pública, empleo y empresas, salud, etc.</p>
+            </div>
+            <div class="col">
+              <img src="https://i2.wp.com/miro.medium.com/max/10000/1*pTGaSOy0H_o0x2s_fMdgBg.jpeg" class="img-fluid" alt="...">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container text-left">
+          <div class="row align-items-start">
+            <div class="col">
+              <img src="https://fscl01.fonpit.de/userfiles/7611461/image/SHUTTERSTOCK-2019/medicine-technology_06.jpg" class="img-fluid" alt="...">
+            </div>
+            <div class="col">
+              <p><b>¿Qué son las N-TIC?</b></p>
+              <p align="justify">Este término surge con fuerza en los últimos años para definir las tecnologías de información y comunicación más novedosas y que sobresalen del resto por su calado en la sociedad y no es ni más ni menos que el acrónimo N-TIC de Nuevas Tecnologías de la Información y la Comunicación. En general a pesar de que son. muchas las innovaciones tecnológicas que aparecen en el mercado, son pocas las que traccionan y permanecen en la industria. Para que te hagas una idea solo 1 de cada 10 tecnologías permanecen, el resto desaparecen.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container text-left">
+          <div class="row align-items-start">
+            <div class="col">
+              <p><b>¿Qué son las TIC en Informática?</b></p>
+              <p align="justify">En el campo de la informática, las TIC tienen un papel fundamental, ya que son el conjunto de herramientas y tecnologías que permiten la gestión y el procesamiento de la información.</p>
+              <p align="justify">Las TIC en informática incluyen una amplia gama de tecnologías, como los ordenadores, los programas de software, las redes de comunicación y los dispositivos móviles, entre otros. Estas tecnologías permiten a las empresas y organizaciones gestionar grandes cantidades de datos de manera eficiente y rápida.</p>
+              <P align="justify">Además, las TIC en informática también se utilizan en la creación y el desarrollo de nuevas aplicaciones, programas y sistemas que permiten la automatización de tareas y procesos, lo que aumenta la eficiencia y reduce los errores en el trabajo.</P>
+            </div>
+            <div class="col">
+              <img src="https://www.genzeon.com/wp-content/uploads/2021/05/Developing-a-hybrid-Azure-based-EHR-model-dedicated-to-Chiropractic-practices-scaled.jpg" class="img-fluid" alt="...">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container text-left">
+          <div class="row align-items-start">
+            <div class="col">
+              <img src="https://brazilcham.com/wp-content/uploads/2020/02/shutterstock-134102588.jpg" class="img-fluid" alt="...">
+            </div>
+            <div class="col">
+              <p><b>Historia y Evolución de las TIC</b></p>
+              <p align="justify">Desde la invención del telégrafo hasta la revolución del Internet, las TIC han transformado la forma en que nos comunicamos y gestionamos la información. Principales hitos incluyen la creación de la World Wide Web, el auge de los teléfonos móviles y la llegada de las redes sociales.</p>
+              <p align="justify">Las TIC han evolucionado significativamente desde sus inicios. A finales del siglo XX, el desarrollo de los ordenadores personales y la aparición de internet revolucionaron la forma en que manejamos la información. Con el tiempo, la digitalización y la miniaturización de la tecnología han permitido el acceso a dispositivos cada vez más potentes y asequibles. Hoy en día, las TIC son una parte integral de nuestra vida cotidiana, transformando sectores como la educación, la salud y el comercio.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <hr>
+
+      <div>
+        <p class="container text-center fw-bold">Impacto de las TIC en Diversos Sectores</p>
+      </div>
+      <div class="container mt-5">
+          <p class="text-center fw-bold">Impacto de las TIC:</p>
+          <table class="table table-bordered text-center">
+              <tbody>
+                  <tr>
+                      <td class="align-middle"><strong>Educación</strong></td>
+                      <td>
+                          <p align="justify">La educación abrazó las TIC durante la pandemia. La imposibilidad de impartir las clases presencialmente y la necesidad de darle continuidad a la educación obligaron a las instituciones a la adopción acelerada de la tecnología en el aula.</p>
+                      </td>
+                  </tr>
+                  <tr>
+                      <td class="align-middle"><strong>Salud</strong></td>
+                      <td>
+                          <p align="justify">En el sector sanitario, las TIC facilitan la gestión de información médica, mejorando la atención al paciente y la eficiencia operativa. Herramientas como la telemedicina permiten realizar consultas médicas a distancia, aumentando el acceso a los servicios de salud.</p>
+                      </td>
+                  </tr>
+                  <tr>
+                      <td class="align-middle"><strong>Administración Pública</strong></td>
+                      <td>
+                          <p align="justify">Las TIC han modernizado los servicios públicos, permitiendo la digitalización de trámites administrativos y mejorando la transparencia y eficiencia de las instituciones gubernamentales.</p>
+                      </td>
+                  </tr>
+              </tbody>
+          </table>
+      </div>
+
+      <div class="container text-center">
+        <div class="row align-items-start">
+          <table class="table table-bordered text-center">
+              <tbody>
+                  <tr>
+                      <td class="align-middle"><strong>Comercio</strong></td>
+                      <td>
+                        <p align="justify">El comercio electrónico ha florecido gracias a las TIC, permitiendo a las empresas vender productos y servicios en línea. Plataformas como Amazon y eBay han transformado la forma en que compramos y vendemos bienes.</p>
+                      </td>
+                  </tr>
+                  <tr>
+                      <td class="align-middle"><strong>Entretenimiento</strong></td>
+                      <td>
+                        <p align="justify">Las TIC han revolucionado el entretenimiento, desde los videojuegos hasta el streaming de música y video. Servicios como Netflix y Spotify han cambiado la forma en que consumimos contenido multimedia.</p>
+                      </td>
+                  </tr>
+                  <tr>
+              </tbody>
+          </table>
+      </div>
+
+    <div class="container mt-5">
+        <p class="text-center fw-bold">Nuevas Tecnologías Emergentes de las TIC</p>
+        <p align="justify">Las TIC continúan evolucionando, integrando nuevas tecnologías que están transformando nuestro mundo:</p>
+        <table class="table table-bordered text-center">
+            <tbody>
+                <tr>
+                    <td class="align-middle"><strong>Inteligencia Artificial (IA)</strong></td>
+                    <td>
+                        <p align="justify">La IA está revolucionando diversas industrias mediante la automatización de tareas y la mejora en la toma de decisiones. Ejemplos incluyen asistentes virtuales como Siri y Alexa, y sistemas de análisis de datos avanzados.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align-middle"><strong>Blockchain</strong></td>
+                    <td>
+                        <p align="justify">Esta tecnología, conocida por su uso en criptomonedas como Bitcoin, ofrece nuevas oportunidades en términos de transparencia y seguridad en transacciones digitales.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align-middle"><strong>Realidad Virtual (RV) y Realidad Aumentada (RA)</strong></td>
+                    <td>
+                        <p align="justify">La RV y la RA están creando nuevas formas de interactuar con la información y el entorno, desde videojuegos inmersivos hasta aplicaciones en la educación y el marketing.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align-middle"><strong>Ciberseguridad</strong></td>
+                    <td>
+                        <p align="justify">Con el aumento de la delincuencia digital, la ciberseguridad se ha vuelto crucial para proteger la información y los sistemas. Las empresas invierten cada vez más en tecnologías y prácticas para prevenir ataques cibernéticos.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="container mt-5">
+        <p class="text-center fw-bold">CIBERSEGURIDAD EN LAS TIC</p>
+        <p align="justify">La ciberseguridad es una preocupación creciente en el ámbito de las TIC. Con el incremento de los ataques cibernéticos, proteger la información y los sistemas es fundamental. Las organizaciones implementan diversas medidas de seguridad, como la encriptación de datos, el uso de firewalls y la formación en seguridad para los empleados.</p>
+        
+        <table class="table table-bordered text-center mt-4">
+            <tbody>
+                <tr>
+                    <td class="align-middle"><strong>Políticas y Regulaciones de las Tecnologías de la Información y Comunicación</strong></td>
+                    <td>
+                        <p align="justify">Las TIC están sujetas a regulaciones que varían según la región. La protección de datos, la privacidad y la neutralidad de la red son algunos de los temas legales más relevantes. Es crucial entender estas regulaciones para garantizar el cumplimiento y la seguridad.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align-middle"><strong>Retos Actuales y Futuros de las TIC</strong></td>
+                    <td>
+                        <p align="justify">A pesar de sus beneficios, las TIC enfrentan desafíos como la brecha digital, la ciberseguridad y la evolución constante de la tecnología. El futuro promete innovaciones como la inteligencia artificial y la computación cuántica, que transformarán aún más el panorama de las TIC.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align-middle"><strong>TIC y Transformación Digital</strong></td>
+                    <td>
+                        <p align="justify">Las TIC son el motor de la transformación digital en las empresas, permitiendo la automatización de procesos, la mejora en la toma de decisiones y la creación de nuevos modelos de negocio.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="container mt-5">
+        <p class="text-center fw-bold">¿Para qué sirven las TIC?</p>
+        <p class="text-center fw-bold">“Fácil acceso a la información en cualquier formato y de manera fácil y rápida”</p>
+        
+        <table class="table table-bordered text-center mt-4">
+            <tbody>
+                <tr>
+                    <td class="align-middle"><strong>Inmaterialidad</strong></td>
+                    <td>
+                        <p align="justify">La digitalización nos permite disponer de información inmaterial, para almacenar grandes cantidades en pequeños soportes o acceder a información ubicada en dispositivos lejanos.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align-middle"><strong>Instantaneidad</strong></td>
+                    <td>
+                        <p align="justify">Podemos conseguir información y comunicarnos instantáneamente a pesar de encontrarnos a kilómetros de la fuente original.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align-middle"><strong>Interactividad</strong></td>
+                    <td>
+                        <p align="justify">Las nuevas TIC se caracterizan por permitir la comunicación bidireccional, entre personas o grupos sin importar donde se encuentren. Esta comunicación se realiza a través de páginas web, correo electrónico, foros, mensajería instantánea, videoconferencias, blogs o wikis entre otros sistemas.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align-middle"><strong>Automatización de tareas</strong></td>
+                    <td>
+                        <p align="justify">La automatización de tareas facilita la eficiencia operativa y reduce la carga de trabajo manual. Los sistemas automáticos pueden realizar tareas repetitivas y complejas con precisión y rapidez, mejorando así la productividad.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <div class="mt-5">
+            <p class="text-center fw-bold">Dónde estamos aplicando las TIC</p>
+            <p align="justify">El ámbito de aplicación de las TIC es enorme. Digamos que todos los sectores están afectados, pero unos más que otros. Si tuviéramos que destacar la aplicación de las TIC por sectores diríamos que los que más se han beneficiado son:</p>
+        </div>
+    </div>
+
+
+                          <div style="text-align: left;">
+                            <ul class="list-group">
+                              <li class="list-group-item active" aria-current="true">Sectores beneficiados:</li>
+                              <li class="list-group-item">Las TIC en el aprendizaje</li>
+                              <li class="list-group-item">Las TIC en el aula</li>
+                              <li class="list-group-item">Las TIC en el Emprendimiento</li>
+                              <li class="list-group-item">Las TIC en la Empresa y las Pymes</li>
+                              <li class="list-group-item">Las TIC en el comercio</li>
+                              <li class="list-group-item">Las TIC, por supuesto, en internet</li>
+                              <li class="list-group-item">Las TIC en casa y en el hogar</li>
+                              <li class="list-group-item">Las TIC en la administración</li>
+                              <li class="list-group-item">Las TIC en la salud, la medicina y el deporte</li>
+                            </ul>
+                          </div>
+                          <h1>
+                            <p>¿Qué tipos de TIC existen?</p>
+                          </h1>
+                          <div>
+                            <p>Podemos hacer una clasificación general de las tecnologías de la información y comunicación en redes, terminales y servicios que ofrecen.</p>
+                          </div>
+                          <div>
+                            <table class="table">
+                              <thead>
+                                <tr>
+                                  <th scope="col">Clasificación</th>
+                                  <th scope="col">Tipos</th>
+                                  <th scope="col">Operaciones</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">1</th>
+                                  <td>Redes</td>
+                                  <td style="text-align: justify;">La telefonía fija, la banda ancha, la telefonía móvil, las redes de televisión o las redes en el hogar son algunas de las redes de TIC.</td>
+                                </tr>
+                                <tr>
+                                  <th scope="row">2</th>
+                                  <td>Terminales</td>
+                                  <td style="text-align: justify;">Existen varios dispositivos o terminales que forman parte de las TIC. Estos son el ordenador, el navegador de Internet, los sistemas operativos para ordenadores, los teléfonos móviles, los televisores, los reproductores portátiles de audio y video o las consolas de juego.</td>
+                                </tr>
+                                <tr>
+                                  <th scope="row">3</th>
+                                  <td>Servicios en las TIC</td>
+                                  <td style="text-align: justify;">Las TIC ofrecen varios servicios a los consumidores. Los más importantes son el correo electrónico, la búsqueda de información, la banca online, el audio y música, la televisión y el cine, el comercio electrónico, e-administración y e-gobierno, la e-sanidad, la educación, los videojuegos y los servicios móviles. En los últimos años han aparecido más servicios como los Peer to Peer (P2P), los blogs o las comunidades virtuales y escuelas de negocio que se especializan en impartir su formación.</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </div>
+                          <h2>
+                            <p>Nuevas tecnologías TIC aparecidas en los últimos años</p>
+                          </h2>
+                          <div>
+                            <p style="text-align: justify;">En los últimos años hay varias TIC que destacan sobre otras y que están marcando la tendencia del mercado. La revolución más importante que estamos viviendo en esta era es la incorporación de la descentralización y la transparencia a través del blockchain, además también se habla de nuevas tecnologías NTIC como:</p>
+                          </div>
+                          <div>
+                            <div>
+                              <table class="table">
+                                <thead>
+                                  <tr>
+                                    <th scope="col">#</th>
+                                    <th scope="col">NTICs</th>
+                                    <th scope="col">Participación</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <th scope="row">1</th>
+                                    <td>Blockchain</td>
+                                    <td style="text-align: justify;">La tecnología de la cadena de bloques gana protagonismo, principalmente con el auge de los NFTs y las Monedas Criptográficas como el Bitcoin.</td>
+                                  </tr>
+                                  <tr>
+                                    <th scope="row">2</th>
+                                    <td>Realidad Virtual, Realidad Aumentada, Realidad Mixta y Realidad Extendida</td>
+                                    <td style="text-align: justify;">Con la llegada del metaverso que no es ni más ni menos que la evolución de los mundos 3d la aplicación de estas tecnologías a nuestro día a día crece. Pero sobre todo tecnologías como la realidad aumentada y mixta nos ofrecen soluciones muy interesantes a nuestro día a día agregando capas de información en el mundo real como hace Ikea.</td>
+                                  </tr>
+                                  <tr>
+                                    <th scope="row">3</th>
+                                    <td>Robótica</td>
+                                    <td style="text-align: justify;">El Internet de las Cosas -IoT- ha entrado en los hogares, empresas, y en la industria. Los Robots ganan adeptos en todas partes y forman parte de nuestra vida, hasta el punto de que serán la mayor amenaza para el trabajo que hayamos conocido. Aún no sabemos si para bien, como predice la singularity univesity, o para mal como predicen muchos ensayos de un mundo dominado por robots.</td>
+                                  </tr>
+                                  <tr>
+                                    <th scope="row">4</th>
+                                    <td>Ciberseguridad</td>
+                                    <td style="text-align: justify;">La delincuencia ha pasado del mundo real al mundo virtual y la ciberseguridad son los sistemas de defensa que podemos utilizar en este mundo para prevenir robos y secuestros de sistemas e información. Se pierden miles de millones cada año por la ciberdelincuencia.</td>
+                                  </tr>
+                                  <tr>
+                                    <th scope="row">5</th>
+                                    <td>Telecomunicaciones y Redes</td>
+                                    <td style="text-align: justify;">Se incluye en los módulos de Cloud Computing y Movilidad conceptos renovados de redes, telecomunicaciones, 5G, y 6G.</td>
+                                  </tr>
+                                  <tr>
+                                    <th scope="row">6</th>
+                                    <td>Gobierno de las TI</td>
+                                    <td style="text-align: justify;">La parte más humanista de la tecnología nos obliga a tener una visión holística de cada parte para ser capaz de integrarla en un todo.</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+                          <h3>
+                            <p>Ventajas y desventajas de las TIC</p>
+                          </h3>
+                          <div>
+                            <p style="text-align: center;">El uso de las Tecnologías de la Información y la Comunicación (TIC) tiene tanto ventajas como desventajas.</p>
+                          </div>
+                          <div>
+                            <table class="table">
+                              <thead>
+                                <tr>
+                                  <th scope="col">#</th>
+                                  <th scope="col">TIC</th>
+                                  <th scope="col">Ventaja</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">1</th>
+                                  <td>Comunicación eficiente</td>
+                                  <td style="text-align: justify;">Las TIC permiten una comunicación rápida y eficiente, lo que reduce la brecha geográfica y mejora la conectividad.</td>
+                                </tr>
+                                <tr>
+                                  <th scope="row">2</th>
+                                  <td>Acceso a la información</td>
+                                  <td style="text-align: justify;">Las TIC brindan acceso a una gran cantidad de información de manera fácil y rápida, lo que facilita la investigación y el aprendizaje.</td>
+                                </tr>
+                                <tr>
+                                  <th scope="row">3</th>
+                                  <td>Aumento de la productividad</td>
+                                  <td style="text-align: justify;">Las TIC pueden automatizar procesos, reducir tiempos de espera y aumentar la eficiencia de los procesos, lo que aumenta la productividad.</td>
+                                </tr>
+                                <tr>
+                                  <th scope="row">4</th>
+                                  <td>Flexibilidad laboral</td>
+                                  <td style="text-align: justify;">Las TIC permiten trabajar desde cualquier lugar y en cualquier momento, lo que favorece la flexibilidad laboral.</td>
+                                </tr>
+                                <tr>
+                                  <th scope="row">5</th>
+                                  <td>Comercio electrónico</td>
+                                  <td style="text-align: justify;">Las TIC permiten la realización de transacciones comerciales a través de la red, lo que facilita el comercio electrónico.</td>
+                                </tr>
+                          </div>
+                          <div>
+                            <table class="table">
+                              <thead>
+                                <tr>
+                                  <th scope="col">#</th>
+                                  <th scope="col">TIC</th>
+                                  <th scope="col">Desventajas</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">1</th>
+                                  <td>Dependencia tecnológica</td>
+                                  <td style="text-align: justify;">Las TIC pueden crear una fuerte dependencia, lo que puede generar problemas en caso de fallos o interrupciones.</td>
+                                </tr>
+                                <tr>
+                                  <th scope="row">2</th>
+                                  <td>Aislamiento social</td>
+                                  <td style="text-align: justify;">Las TIC pueden promover el aislamiento social y la falta de contacto humano, especialmente en la era de las redes sociales.</td>
+                                </tr>
+                                <tr>
+                                  <th scope="row">3</th>
+                                  <td>Desigualdad social</td>
+                                  <td style="text-align: justify;">Las TIC pueden aumentar la brecha digital entre personas que tienen acceso a la tecnología y aquellas que no tienen acceso o no tienen los recursos para acceder a ella.</td>
+                                </tr>
+                                <tr>
+                                  <th scope="row">4</th>
+                                  <td>Adicción</td>
+                                  <td style="text-align: justify;">Las TIC pueden generar adicción y afectar negativamente la salud mental y física de las personas.</td>
+                                </tr>
+                                <tr>
+                                  <th scope="row">5</th>
+                                  <td>Privacidad y seguridad</td>
+                                  <td style="text-align: justify;">Las TIC pueden poner en riesgo la privacidad y seguridad de los datos personales, especialmente cuando se comparten en línea.</td>
+                                </tr>
+                                <tr>
+                                  <th scope="col">-</th>
+                                  <td style="text-align: justify;">Las TIC son fundamentales en la sociedad actual, transformando diversos sectores y facilitando el acceso a la información y la comunicación. Sin embargo, también presentan desafíos que deben ser abordados para maximizar sus beneficios y minimizar sus riesgos. Con la evolución continua de la tecnología, es esencial mantenerse actualizado y adoptar prácticas seguras y sostenibles en el uso de las TIC.</td>
+                                </tr>
+                                <br>
+                                <table class="table">
+                                  <thead>
+                                    <tr>
+                                      <th scope="col">#</th>
+                                      <th scope="col">CONCLUSIONES</th>
+                                      <th scope="col">SOBRE LAS TICs</th>
+                                    </tr>
+                                  </thead>
+                                  <tbody>
+                                    <tr>
+                                      <th scope="row">1</th>
+                                      <td>-</td>
+                                      <td style="text-align: justify;">El campo de la Ingeniería en Tecnologías de Información y Comunicación (TIC) está presenciando una revolución sin precedentes gracias al avance de la Inteligencia Artificial (IA). Al considerar estudiar una Licenciatura en esta área es imprescindible comprender cómo la IA está reconfigurando el panorama profesional y académico. Desde la automatización de tareas hasta el desarrollo de sistemas inteligentes, la IA desempeña un papel crucial en la transformación digital de las empresas y la sociedad.</td>
+                                    </tr>
+                                    <tr>
+                                      <th scope="row">2</th>
+                                      <td>-</td>
+                                      <td style="text-align: justify;">Los estudiantes de Tecnologías TICS deben adquirir conocimientos en áreas como el machine learning, la visión por computadora y el procesamiento del lenguaje natural. Estos campos no solo brindan las herramientas para crear sistemas sofisticados, sino que también posibilitan la resolución de problemas complejos a través de la automatización y la inteligencia de datos. Además, es fundamental comprender cómo integrar estos sistemas con las infraestructuras tecnológicas existentes para maximizar su efectividad.</td>
+                                    </tr>
+                          </div>
+                          <br>
+                          <h4>
+                            <div class="card text-center">
+                              <div class="card-header">
+                                MI PRIMER SITIO WEB
+                              </div>
+                              <div class="card-body">
+                                <h5 class="card-title">Computación e Informática 2024-I</h5>
+                                <p class="card-text">Soy un diseñador web altamente especializado</p>
+                                <a href="#" class="btn btn-primary">Inicio</a>
+                              </div>
+                              <div class="card-footer text-body-secondary">
+                                IESTP "Villa Maria"
+                              </div>
+                            </div>
+                          </h4>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+  </body>
+</html>
